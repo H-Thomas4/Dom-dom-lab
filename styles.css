@@ -1,0 +1,10 @@
+.square {
+    width: 10rem;
+    height: 10rem;
+    background-color: black;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
